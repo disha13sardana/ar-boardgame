@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Squires"/>
+
+</Tracking>
+
+<Assembly name="Squiress_assembly" assemblyId="ba4026d97b9a4fdaaa50eab988c2f322">
+<Part name="Squires" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0737482 -0.148097 1.78979" rotation="AD: 0.9998220854093345 0.06052281663159289 -0.3338742137754994 199.481">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

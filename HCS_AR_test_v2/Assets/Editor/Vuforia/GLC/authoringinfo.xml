@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="GLC" targetId="d852475c67f049059db0c93f427f995e" version="11.0" toolVersion="3.0.0" bbox="-0.894239 -0.543612 -0.110000 0.792783 0.870344 0.210000" previewImage="d852475c67f049059db0c93f427f995e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="GLCs_assembly" assemblyId="112f27eebe9f4c978aa0aad946aa80ae">
+<Part name="GLC" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0707927 0.158475 1.78414" rotation="AD: 0.9999344597854729 -0.03511901005633658 0.3467928396672505 190.925" image="GLC_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

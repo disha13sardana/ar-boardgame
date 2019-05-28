@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="cup vu"/>
+
+</Tracking>
+
+<Assembly name="cup vus_assembly" assemblyId="31c500bc0b824cd58f64270adde25673">
+<Part name="cup vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="2.19269e-15 -0.466016 4.97509" rotation="AD: 0.9999621871428044 0.03793218708333804 -0.2386452038353293 197.566">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

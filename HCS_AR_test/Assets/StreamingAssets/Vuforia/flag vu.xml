@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="flag vu"/>
+
+</Tracking>
+
+<Assembly name="flag vus_assembly" assemblyId="b79053d179d84ff48ffedddaf8c048c7">
+<Part name="flag vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0366415 0.117815 0.398212" rotation="AD: 0.9999968392431142 0.005904697298584555 -0.47064512644017337 181.301">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

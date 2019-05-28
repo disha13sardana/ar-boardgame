@@ -1,0 +1,51 @@
+<vuforiaproject version="3">
+  <project id="b49a4dd2586440f5952290e5b652cf7f" assemblyId="ef882cc1b7334225826b6899a61b16fc">
+    <source file="C:\Users\poorv\Downloads\ModelTargetGenerator-8-1-8\Model_Target_Generator-win32-x64\resources\sampledata\3d artifacts\Stetoscope.obj" date="1556589653319"/>
+    <converted file=".converted\Stetoscope.pvz" date="1556592383506"/>
+    <units length="Meters"/>
+  </project>
+  <camera>
+    <position x="27.425399780273438" y="4.767449855804443" z="27.03749942779541"/>
+    <quaternion x="-0.03825652013864091" y="0.3869088262703638" z="0.01606821939856217" w="0.9211839181978434"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </camera>
+
+  <detectionpointcamera>
+    <position x="0" y="0" z="0"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </detectionpointcamera>
+
+  <detectionpoints>
+  </detectionpoints>
+  <trackingarea active="false">
+    <position x="0.10980033874511719" y="1.5845999517478049" z="0.2563495635986328"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <scale x="1" y="1" z="1"/>
+    <corners>
+      <position x="0.6098003387451172" y="2.084599951747805" z="0.7563495635986328"/>
+      <position x="0.6098003387451172" y="2.084599951747805" z="-0.2436504364013672"/>
+      <position x="-0.3901996612548828" y="2.084599951747805" z="-0.2436504364013672"/>
+      <position x="-0.3901996612548828" y="2.084599951747805" z="0.7563495635986328"/>
+      <position x="0.6098003387451172" y="1.0845999517478049" z="0.7563495635986328"/>
+      <position x="0.6098003387451172" y="1.0845999517478049" z="-0.2436504364013672"/>
+      <position x="-0.3901996612548828" y="1.0845999517478049" z="-0.2436504364013672"/>
+      <position x="-0.3901996612548828" y="1.0845999517478049" z="0.7563495635986328"/>
+    </corners>
+  </trackingarea>
+  <dlproject active="true"/>
+  <targetvolumes>
+  </targetvolumes>
+  <camrendervols>
+  </camrendervols>
+  <orbitcontrols>
+    <target x="0.10980033874511719" y="1.5845999517478049" z="0.2563495635986328"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitcontrols>
+  <orbitdetection>
+    <target x="0" y="0" z="-1.608952522675824"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitdetection>
+</vuforiaproject>

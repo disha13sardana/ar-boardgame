@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="newman_library"/>
+
+</Tracking>
+
+<Assembly name="newman_librarys_assembly" assemblyId="871b019e81df4539b3d0a3e5855c62c3">
+<Part name="newman_library" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0605894 0.414339 1.61403" rotation="AD: 0.9999775738968048 -0.021249976533539862 -0.3328269147727635 173.068">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="D2Deets"/>
+
+</Tracking>
+
+<Assembly name="D2Deetss_assembly" assemblyId="0b1ab42332e547389cf4f9a5347b7924">
+<Part name="D2Deets" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.251513 0.59636 2.53238" rotation="AD: -0.937460417111541 0.9887877359781226 -0.7098353591593052 99.2727">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

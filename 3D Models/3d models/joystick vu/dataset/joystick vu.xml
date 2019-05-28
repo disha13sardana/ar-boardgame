@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="joystick vu"/>
+
+</Tracking>
+
+<Assembly name="joystick vus_assembly" assemblyId="844b6182bf7642578670a9cd294dd879">
+<Part name="joystick vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.118333 0.268397 10.2576" rotation="AD: 0.9997646695726364 0.04478903314575765 -0.5558352921593877 188.051">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

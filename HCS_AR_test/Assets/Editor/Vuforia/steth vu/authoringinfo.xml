@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="steth vu" targetId="51a4ea67ed5c4448938337f7098e9714" version="11.0" toolVersion="3.0.0" bbox="-18.283600 -0.009100 -17.512300 18.063999 3.178300 18.025000" previewImage="51a4ea67ed5c4448938337f7098e9714_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="steth vus_assembly" assemblyId="57e980558b95412daa1b8bb794f99209">
+<Part name="steth vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.106179 1.55776 40.6259" rotation="AD: 0.999977227261762 0.01744261179965251 -0.42000300662418477 184.385" image="steth vu_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="climb vu"/>
+
+</Tracking>
+
+<Assembly name="climb vus_assembly" assemblyId="9d0f3e2e4e614982924a655654f5916e">
+<Part name="climb vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-5.75657e-07 -8.03063 479.267" rotation="AD: -0.6766165918629456 -0.841843358694704 2.0146178565615447 165.898">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

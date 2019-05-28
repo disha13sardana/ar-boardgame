@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Outdoor_L" size="1.000000 1.005453" />
+    <ImageTarget name="LGBTQ_L" size="1.000000 1.003165" />
+    <ImageTarget name="Hospital_L" size="1.000000 1.007031" />
+    <ImageTarget name="Emergency_Lights_L" size="1.000000 0.992263" />
+    <ImageTarget name="Cafe_L" size="1.000000 0.988995" />
+    <ImageTarget name="Apartments_L" size="1.000000 0.992857" />
+    <ImageTarget name="All_Gender_L" size="1.000000 0.994941" />
+  </Tracking>
+</QCARConfig>

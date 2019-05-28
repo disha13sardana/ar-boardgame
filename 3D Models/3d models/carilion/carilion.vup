@@ -1,0 +1,100 @@
+<vuforiaproject version="3">
+  <project id="6bf25e61b324400b8d1796d2db15e77b" assemblyId="5b07e4caee2d474885c8fe1fc9fce24f">
+    <source file="D:\2nd Sem\Human Computer Design 6614\VT campus\carilionclinic-3DView-{3D}.fbx" date="1555863338608"/>
+    <converted file=".converted\carilionclinic-3DView-{3D}.pvz" date="1556595080212"/>
+    <units length="Meters"/>
+  </project>
+  <camera>
+    <position x="0.4228818419412454" y="1.4991698201819665" z="1.43499992218222"/>
+    <quaternion x="-0.35663925889571685" y="-0.12598660058200614" z="-0.04860476224341143" w="0.9244313887873807"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </camera>
+
+  <detectionpointcamera>
+    <position x="0.4228818419412454" y="1.4991698201819665" z="1.43499992218222"/>
+    <quaternion x="-0.35663925889571685" y="-0.12598660058200614" z="-0.04860476224341143" w="0.9244313887873807"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </detectionpointcamera>
+
+  <detectionpoints>
+    <detectionpoint name="viewpoint_0000" rating="5">
+      <camera device="1">
+        <worldUpVector x="0" y="1" z="0"/>
+        <target x="0" y="0" z="0"/>
+        <position x="0.4228818419412454" y="1.4991698201819665" z="1.43499992218222"/>
+        <quaternion x="-0.35663925889571685" y="-0.12598660058200614" z="-0.04860476224341143" w="0.9244313887873807"/>
+        <up x="0" y="1" z="0"/>
+        <setup x="0" y="1" z="0"/>
+
+        <globalposition x="-0.791466241166043" y="0.25809485714382724" z="1.947442479885207"/>
+        <axisangle x="0.9999780612081727" y="-0.052576855895607594" z="0.13628251714111636" w="3.870928895869585"/>
+      </camera>
+      <images>
+        <file type="shaded" name="viewpoint_0000_1.png"/>
+        <file type="edge" name="viewpoint_0000_2.png"/>
+      </images>
+    </detectionpoint>
+
+  </detectionpoints>
+  <trackingarea active="false">
+    <position x="0.807537163051911" y="0.19613527894583516" z="0.049999999999999975"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <scale x="1" y="1" z="1"/>
+    <corners>
+      <position x="1.307537163051911" y="0.6961352789458352" z="0.5499999999999999"/>
+      <position x="1.307537163051911" y="0.6961352789458352" z="-0.45"/>
+      <position x="0.30753716305191103" y="0.6961352789458352" z="-0.45"/>
+      <position x="0.30753716305191103" y="0.6961352789458352" z="0.5499999999999999"/>
+      <position x="1.307537163051911" y="-0.30386472105416484" z="0.5499999999999999"/>
+      <position x="1.307537163051911" y="-0.30386472105416484" z="-0.45"/>
+      <position x="0.30753716305191103" y="-0.30386472105416484" z="-0.45"/>
+      <position x="0.30753716305191103" y="-0.30386472105416484" z="0.5499999999999999"/>
+    </corners>
+  </trackingarea>
+  <dlproject active="true"/>
+  <targetvolumes>
+    <targetvolume active="false">
+      <position x="0.807537163051911" y="0.19613527894583516" z="0.049999999999999975"/>
+      <quaternion x="0" y="0" z="0" w="1"/>
+      <scale x="1" y="1" z="1"/>
+      <size x="1.5253685832082189" y="1.3884178328626786" z="0.32000000048428756"/>
+      <corners>
+        <position x="0.5" y="0.5" z="0.5"/>
+        <position x="0.5" y="0.5" z="-0.5"/>
+        <position x="-0.5" y="0.5" z="-0.5"/>
+        <position x="-0.5" y="0.5" z="0.5"/>
+        <position x="0.5" y="-0.5" z="0.5"/>
+        <position x="0.5" y="-0.5" z="-0.5"/>
+        <position x="-0.5" y="-0.5" z="-0.5"/>
+        <position x="-0.5" y="-0.5" z="0.5"/>
+      </corners>
+    </targetvolume>
+
+  </targetvolumes>
+  <camrendervols>
+    <camrendervol origincaptured="true" absdist="0">
+      <origin x="0.288358518402658" y="0.19613527894583516" z="1.9193680887129012"/>
+      <position x="0.807537163051911" y="0.19613527894583516" z="0.049999999999999975"/>
+      <quaternion x="0" y="-0.13503720390673163" z="0" w="0.9908405288244178"/>
+      <dist_range min="1.4550934601732126" max="2.9101869203464252"/>
+
+      <azim_range min="-0.7853981633974483" max="0.7853981633974483"/>
+
+      <elev_range min="-1.2599975435022028" max="-0.21279999230560515"/>
+
+      <roll_range min="-0.26179938779914863" max="0.26179938779915024"/>
+
+    </camrendervol>
+
+  </camrendervols>
+  <orbitcontrols>
+    <target x="0.807537163051911" y="0.19613527894583516" z="0.049999999999999975"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitcontrols>
+  <orbitdetection>
+    <target x="0.807537163051911" y="0.19613527894583516" z="0.049999999999999975"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitdetection>
+</vuforiaproject>

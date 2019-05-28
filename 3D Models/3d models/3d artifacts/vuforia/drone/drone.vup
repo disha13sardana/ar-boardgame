@@ -1,0 +1,51 @@
+<vuforiaproject version="3">
+  <project id="dca0a1375a8542ccb33d22da649483d2" assemblyId="30f5ab4f6df84ab9929ed4527cb2edce">
+    <source file="C:\Users\poorv\Downloads\ModelTargetGenerator-8-1-8\Model_Target_Generator-win32-x64\resources\sampledata\3d artifacts\Parrot_Bebop_Drone.fbx" date="1556590098244"/>
+    <converted file=".converted\Parrot_Bebop_Drone.pvz" date="1556592316720"/>
+    <units length="Meters"/>
+  </project>
+  <camera>
+    <position x="240.51624013143405" y="59.023292541503906" z="51.695383071899414"/>
+    <quaternion x="-0.08176208975220803" y="0.6137304051998758" z="0.06411544979575141" w="0.7826488098183224"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </camera>
+
+  <detectionpointcamera>
+    <position x="240.51624013143405" y="59.023292541503906" z="51.695383071899414"/>
+    <quaternion x="-0.08176208975220803" y="0.6137304051998758" z="0.06411544979575141" w="0.7826488098183224"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </detectionpointcamera>
+
+  <detectionpoints>
+  </detectionpoints>
+  <trackingarea active="false">
+    <position x="50.33416224292665" y="17.65555167198181" z="4.999846458435059"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <scale x="1" y="1" z="1"/>
+    <corners>
+      <position x="50.83416224292665" y="18.15555167198181" z="5.499846458435059"/>
+      <position x="50.83416224292665" y="18.15555167198181" z="4.499846458435059"/>
+      <position x="49.83416224292665" y="18.15555167198181" z="4.499846458435059"/>
+      <position x="49.83416224292665" y="18.15555167198181" z="5.499846458435059"/>
+      <position x="50.83416224292665" y="17.15555167198181" z="5.499846458435059"/>
+      <position x="50.83416224292665" y="17.15555167198181" z="4.499846458435059"/>
+      <position x="49.83416224292665" y="17.15555167198181" z="4.499846458435059"/>
+      <position x="49.83416224292665" y="17.15555167198181" z="5.499846458435059"/>
+    </corners>
+  </trackingarea>
+  <dlproject active="true"/>
+  <targetvolumes>
+  </targetvolumes>
+  <camrendervols>
+  </camrendervols>
+  <orbitcontrols>
+    <target x="50.33416224292665" y="17.65555167198181" z="4.999846458435059"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitcontrols>
+  <orbitdetection>
+    <target x="50.33416224292665" y="17.65555167198181" z="4.999846458435059"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitdetection>
+</vuforiaproject>

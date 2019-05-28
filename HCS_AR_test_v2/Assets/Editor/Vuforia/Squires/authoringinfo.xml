@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="Squires" targetId="a3ac20eebe4a4d9c9bc042471ca7cf5b" version="11.0" toolVersion="3.0.0" bbox="-1.032472 -0.774659 -0.110000 0.772783 0.546797 0.210000" previewImage="a3ac20eebe4a4d9c9bc042471ca7cf5b_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Squiress_assembly" assemblyId="ba4026d97b9a4fdaaa50eab988c2f322">
+<Part name="Squires" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0737482 -0.148097 1.78979" rotation="AD: 0.9998220854093345 0.06052281663159289 -0.3338742137754994 199.481" image="Squires_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

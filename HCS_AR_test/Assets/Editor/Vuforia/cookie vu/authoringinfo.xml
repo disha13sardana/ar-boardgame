@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="cookie vu" targetId="0f4adb56a3134711b7bac9d3cab87606" version="11.0" toolVersion="3.0.0" bbox="-216.997055 -267.704559 -36.057117 216.997055 282.209259 20.566818" previewImage="0f4adb56a3134711b7bac9d3cab87606_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="cookie vus_assembly" assemblyId="ff70467d591c4a1188c514c20a8ea8d0">
+<Part name="cookie vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.425896 8.54454 894.572" rotation="AD: 0.9999999975843011 0.002537859717358613 -0.027515197651751915 190.536" image="cookie vu_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

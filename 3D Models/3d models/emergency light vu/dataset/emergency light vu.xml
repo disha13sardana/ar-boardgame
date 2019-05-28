@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="emergency light vu"/>
+
+</Tracking>
+
+<Assembly name="emergency light vus_assembly" assemblyId="ce6f33f583fd41b3a5cad979cc09907c">
+<Part name="emergency light vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.364742 1.62625 4.79341" rotation="AD: 0.999699060915988 0.024903960687026758 5.715957636901962 179.914">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

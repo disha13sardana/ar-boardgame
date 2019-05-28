@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="GLC"/>
+
+</Tracking>
+
+<Assembly name="GLCs_assembly" assemblyId="112f27eebe9f4c978aa0aad946aa80ae">
+<Part name="GLC" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0707927 0.158475 1.78414" rotation="AD: 0.9999344597854729 -0.03511901005633658 0.3467928396672505 190.925">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

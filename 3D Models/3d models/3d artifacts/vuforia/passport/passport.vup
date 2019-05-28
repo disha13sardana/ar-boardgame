@@ -1,0 +1,51 @@
+<vuforiaproject version="3">
+  <project id="19434f590d914857a0b1e4dcf97c45f3" assemblyId="ec7a2624c58c4397874fe95d7673522e">
+    <source file="C:\Users\poorv\Downloads\ModelTargetGenerator-8-1-8\Model_Target_Generator-win32-x64\resources\sampledata\3d artifacts\book.obj" date="1556590381140"/>
+    <converted file=".converted\book.pvz" date="1556592269397"/>
+    <units length="Meters"/>
+  </project>
+  <camera>
+    <position x="1.5751649737358093" y="2.018852949142456" z="0.36647699028253555"/>
+    <quaternion x="-0.3374282427265577" y="0.5617128445322821" z="0.2684323980334306" w="0.7060912894123123"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </camera>
+
+  <detectionpointcamera>
+    <position x="0" y="0" z="0"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </detectionpointcamera>
+
+  <detectionpoints>
+  </detectionpoints>
+  <trackingarea active="false">
+    <position x="-0.013006508350372314" y="0" z="0"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <scale x="1" y="1" z="1"/>
+    <corners>
+      <position x="0.4869934916496277" y="0.5" z="0.5"/>
+      <position x="0.4869934916496277" y="0.5" z="-0.5"/>
+      <position x="-0.5130065083503723" y="0.5" z="-0.5"/>
+      <position x="-0.5130065083503723" y="0.5" z="0.5"/>
+      <position x="0.4869934916496277" y="-0.5" z="0.5"/>
+      <position x="0.4869934916496277" y="-0.5" z="-0.5"/>
+      <position x="-0.5130065083503723" y="-0.5" z="-0.5"/>
+      <position x="-0.5130065083503723" y="-0.5" z="0.5"/>
+    </corners>
+  </trackingarea>
+  <dlproject active="true"/>
+  <targetvolumes>
+  </targetvolumes>
+  <camrendervols>
+  </camrendervols>
+  <orbitcontrols>
+    <target x="-0.013006508350372314" y="0" z="0"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitcontrols>
+  <orbitdetection>
+    <target x="0" y="0" z="-0.013006508350372314"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitdetection>
+</vuforiaproject>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="drone vu3"/>
+
+</Tracking>
+
+<Assembly name="drone vu3s_assembly" assemblyId="ef05f48033cd4922a1e548cb10ca4219">
+<Part name="drone vu3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="41.7266 73.0799 824.97" rotation="AD: 0.999670399234274 0.05406178611859644 -0.5428784468189156 189.991">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

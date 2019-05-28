@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="flower vu"/>
+
+</Tracking>
+
+<Assembly name="flower vus_assembly" assemblyId="cdbad52e370c498b9f4690026ac27874">
+<Part name="flower vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.000363815 0.0774953 0.730445" rotation="AD: -0.9999879024280536 0.058275023772676786 -0.098537325913116 119.126">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

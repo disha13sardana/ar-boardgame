@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="VR vu"/>
+
+</Tracking>
+
+<Assembly name="VR vus_assembly" assemblyId="2405718b2e484a6183766ba44d7d3eef">
+<Part name="VR vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.5734 0.23255 7.01686" rotation="AD: 0.9993958659217983 0.10734711243119147 -0.35884524946147905 211.297">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

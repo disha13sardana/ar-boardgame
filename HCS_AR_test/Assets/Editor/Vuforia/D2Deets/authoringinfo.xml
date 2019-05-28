@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="D2Deets" targetId="93f0b7224dd6446297b96de74adf548f" version="11.0" toolVersion="3.0.0" bbox="-1.570221 -0.422783 -0.110000 0.070235 0.890344 0.210000" previewImage="93f0b7224dd6446297b96de74adf548f_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="D2Deetss_assembly" assemblyId="0b1ab42332e547389cf4f9a5347b7924">
+<Part name="D2Deets" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.251513 0.59636 2.53238" rotation="AD: -0.937460417111541 0.9887877359781226 -0.7098353591593052 99.2727" image="D2Deets_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="cranwell" targetId="92557333fc864018b0e28745bf63a29c" version="11.0" toolVersion="3.0.0" bbox="-1.590221 -0.754659 -0.110000 0.042833 0.607760 0.262757" previewImage="92557333fc864018b0e28745bf63a29c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="cranwells_assembly" assemblyId="05b0dad2f2664324823d6829628062d7">
+<Part name="cranwell" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.365691 -0.227652 2.98935" rotation="AD: 0.9995821462117818 0.06167108170726432 -0.5348912975900303 191.592" image="cranwell_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="newman_library" targetId="6cd926bd09734cfba5a43a57a39abd2f" version="11.0" toolVersion="3.0.0" bbox="-0.716271 -0.039267 -0.110000 0.792783 0.870344 0.210000" previewImage="6cd926bd09734cfba5a43a57a39abd2f_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="newman_librarys_assembly" assemblyId="871b019e81df4539b3d0a3e5855c62c3">
+<Part name="newman_library" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0605894 0.414339 1.61403" rotation="AD: 0.9999775738968048 -0.021249976533539862 -0.3328269147727635 173.068" image="newman_library_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,51 @@
+<vuforiaproject version="3">
+  <project id="12ef43e2c6fc4d3ab18418d2df04ea26" assemblyId="b5a73a9a157e4c33a49e8f81c6be9063">
+    <source file="C:\Users\poorv\Downloads\ModelTargetGenerator-8-1-8\Model_Target_Generator-win32-x64\resources\sampledata\Security_Hook_(C4DR16_C4DR13_OBJ)\Security Hook.obj" date="1556592477944"/>
+    <converted file=".converted\Security Hook.pvz" date="1556592616003"/>
+    <units length="Meters"/>
+  </project>
+  <camera>
+    <position x="141.0230827331543" y="215.96932983398438" z="37.06449508666992"/>
+    <quaternion x="-0.3798685210729114" y="0.53581280992872" z="0.29293038191684645" w="0.6948354702835908"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </camera>
+
+  <detectionpointcamera>
+    <position x="0" y="0" z="0"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </detectionpointcamera>
+
+  <detectionpoints>
+  </detectionpoints>
+  <trackingarea active="false">
+    <position x="0" y="-11.428443908691406" z="-9.5367431640625e-7"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <scale x="1" y="1" z="1"/>
+    <corners>
+      <position x="0.5" y="-10.928443908691406" z="0.4999990463256836"/>
+      <position x="0.5" y="-10.928443908691406" z="-0.5000009536743164"/>
+      <position x="-0.5" y="-10.928443908691406" z="-0.5000009536743164"/>
+      <position x="-0.5" y="-10.928443908691406" z="0.4999990463256836"/>
+      <position x="0.5" y="-11.928443908691406" z="0.4999990463256836"/>
+      <position x="0.5" y="-11.928443908691406" z="-0.5000009536743164"/>
+      <position x="-0.5" y="-11.928443908691406" z="-0.5000009536743164"/>
+      <position x="-0.5" y="-11.928443908691406" z="0.4999990463256836"/>
+    </corners>
+  </trackingarea>
+  <dlproject active="true"/>
+  <targetvolumes>
+  </targetvolumes>
+  <camrendervols>
+  </camrendervols>
+  <orbitcontrols>
+    <target x="0" y="-11.428443908691406" z="-9.5367431640625e-7"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitcontrols>
+  <orbitdetection>
+    <target x="0" y="0" z="-11.428443908691445"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitdetection>
+</vuforiaproject>

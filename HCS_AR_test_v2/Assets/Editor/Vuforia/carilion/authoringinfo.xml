@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="carilion" targetId="6bf25e61b324400b8d1796d2db15e77b" version="11.0" toolVersion="3.0.0" bbox="-1.570221 -0.498074 -0.110000 -0.044853 0.890344 0.210000" previewImage="6bf25e61b324400b8d1796d2db15e77b_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="carilions_assembly" assemblyId="5b07e4caee2d474885c8fe1fc9fce24f">
+<Part name="carilion" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.791466 0.258095 1.94744" rotation="AD: 0.9999780612081727 -0.052576855895607594 0.13628251714111636 221.788" image="carilion_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

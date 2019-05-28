@@ -1,0 +1,51 @@
+<vuforiaproject version="3">
+  <project id="a7596c0b4aa34692a6737c0cbc341510" assemblyId="a2945d581cbf40a2b0d670dc7a58e4e5">
+    <source file="C:\Users\poorv\Downloads\ModelTargetGenerator-8-1-8\Model_Target_Generator-win32-x64\resources\sampledata\street_lamp_obj\street lamp.obj" date="1556592488887"/>
+    <converted file=".converted\street lamp.pvz" date="1556592638544"/>
+    <units length="Meters"/>
+  </project>
+  <camera>
+    <position x="0.5193555057048798" y="4.72445547580719" z="0.3621570020914078"/>
+    <quaternion x="-0.5685752704367865" y="0.3467838927021032" z="0.28622791960683125" w="0.6888662218803131"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </camera>
+
+  <detectionpointcamera>
+    <position x="0.5193555057048798" y="4.72445547580719" z="0.3621570020914078"/>
+    <quaternion x="-0.5685752704367865" y="0.3467838927021032" z="0.28622791960683125" w="0.6888662218803131"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </detectionpointcamera>
+
+  <detectionpoints>
+  </detectionpoints>
+  <trackingarea active="false">
+    <position x="0.03095400333404541" y="1.5755969919264317" z="0"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <scale x="1" y="1" z="1"/>
+    <corners>
+      <position x="0.5309540033340454" y="2.0755969919264317" z="0.5"/>
+      <position x="0.5309540033340454" y="2.0755969919264317" z="-0.5"/>
+      <position x="-0.4690459966659546" y="2.0755969919264317" z="-0.5"/>
+      <position x="-0.4690459966659546" y="2.0755969919264317" z="0.5"/>
+      <position x="0.5309540033340454" y="1.0755969919264317" z="0.5"/>
+      <position x="0.5309540033340454" y="1.0755969919264317" z="-0.5"/>
+      <position x="-0.4690459966659546" y="1.0755969919264317" z="-0.5"/>
+      <position x="-0.4690459966659546" y="1.0755969919264317" z="0.5"/>
+    </corners>
+  </trackingarea>
+  <dlproject active="true"/>
+  <targetvolumes>
+  </targetvolumes>
+  <camrendervols>
+  </camrendervols>
+  <orbitcontrols>
+    <target x="0.03095400333404541" y="1.5755969919264317" z="0"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitcontrols>
+  <orbitdetection>
+    <target x="0.03095400333404541" y="1.5755969919264317" z="0"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitdetection>
+</vuforiaproject>

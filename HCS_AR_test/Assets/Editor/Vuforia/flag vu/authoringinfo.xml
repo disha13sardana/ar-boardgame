@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="flag vu" targetId="c886ab2cbc5048e189da20648147bbbf" version="11.0" toolVersion="3.0.0" bbox="-0.114396 -0.010680 -0.024260 0.013097 0.248163 0.012940" previewImage="c886ab2cbc5048e189da20648147bbbf_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="flag vus_assembly" assemblyId="b79053d179d84ff48ffedddaf8c048c7">
+<Part name="flag vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0366415 0.117815 0.398212" rotation="AD: 0.9999968392431142 0.005904697298584555 -0.47064512644017337 181.301" image="flag vu_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

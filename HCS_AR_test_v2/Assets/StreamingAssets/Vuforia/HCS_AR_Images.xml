@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tile_safety_r" size="0.100000 0.096303" />
+    <ImageTarget name="tile_safety_y" size="0.100000 0.100473" />
+    <ImageTarget name="tile_safety_b" size="0.100000 0.099878" />
+    <ImageTarget name="tile_safety_g" size="0.100000 0.099226" />
+    <ImageTarget name="tile_facilities_g" size="0.100000 0.101309" />
+    <ImageTarget name="tile_facilities_b" size="0.100000 0.098299" />
+    <ImageTarget name="tile_facilities_y" size="0.100000 0.099315" />
+    <ImageTarget name="tile_facilities_r" size="0.100000 0.100000" />
+    <ImageTarget name="tile_lgbt_r" size="0.100000 0.101743" />
+    <ImageTarget name="tile_lgbt_y" size="0.100000 0.099721" />
+    <ImageTarget name="tile_lgbt_g" size="0.100000 0.101309" />
+    <ImageTarget name="tile_lgbt_b" size="0.100000 0.100316" />
+    <ImageTarget name="tile_ada_b" size="0.100000 0.098441" />
+    <ImageTarget name="tile_ada_g" size="0.100000 0.099923" />
+    <ImageTarget name="tile_ada_y" size="0.100000 0.098781" />
+    <ImageTarget name="tile_ada_r" size="0.100000 0.099494" />
+    <ImageTarget name="tile_food_r" size="0.100000 0.100000" />
+    <ImageTarget name="tile_food_b" size="0.100000 0.099317" />
+    <ImageTarget name="tile_food_g" size="0.100000 0.100255" />
+    <ImageTarget name="tile_food_y" size="0.100000 0.098899" />
+    <ImageTarget name="tile_healthcare_g" size="0.100000 0.100080" />
+    <ImageTarget name="tile_healthcare_b" size="0.100000 0.100703" />
+    <ImageTarget name="tile_healthcare_y" size="0.100000 0.101199" />
+    <ImageTarget name="tile_healthcare_r" size="0.100000 0.100087" />
+    <ImageTarget name="tile_living_b" size="0.100000 0.099286" />
+    <ImageTarget name="tile_living_y" size="0.100000 0.099140" />
+    <ImageTarget name="tile_living_g" size="0.100000 0.099452" />
+    <ImageTarget name="tile_test" size="0.600000 0.611096" />
+    <ImageTarget name="notebook_test" size="0.125000 0.093750" />
+    <ImageTarget name="coup_test" size="1.200000 1.398931" />
+  </Tracking>
+</QCARConfig>

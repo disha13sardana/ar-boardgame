@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="carilion"/>
+
+</Tracking>
+
+<Assembly name="carilions_assembly" assemblyId="5b07e4caee2d474885c8fe1fc9fce24f">
+<Part name="carilion" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.791466 0.258095 1.94744" rotation="AD: 0.9999780612081727 -0.052576855895607594 0.13628251714111636 221.788">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

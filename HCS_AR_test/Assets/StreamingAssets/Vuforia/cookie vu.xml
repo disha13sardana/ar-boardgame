@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="cookie vu"/>
+
+</Tracking>
+
+<Assembly name="cookie vus_assembly" assemblyId="ff70467d591c4a1188c514c20a8ea8d0">
+<Part name="cookie vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.425896 8.54454 894.572" rotation="AD: 0.9999999975843011 0.002537859717358613 -0.027515197651751915 190.536">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

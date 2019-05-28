@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="cranwell"/>
+
+</Tracking>
+
+<Assembly name="cranwells_assembly" assemblyId="05b0dad2f2664324823d6829628062d7">
+<Part name="cranwell" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.365691 -0.227652 2.98935" rotation="AD: 0.9995821462117818 0.06167108170726432 -0.5348912975900303 191.592">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

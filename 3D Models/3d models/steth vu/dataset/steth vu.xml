@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="steth vu"/>
+
+</Tracking>
+
+<Assembly name="steth vus_assembly" assemblyId="57e980558b95412daa1b8bb794f99209">
+<Part name="steth vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.106179 1.55776 40.6259" rotation="AD: 0.999977227261762 0.01744261179965251 -0.42000300662418477 184.385">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

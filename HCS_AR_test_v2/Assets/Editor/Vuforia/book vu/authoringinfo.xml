@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="book vu" targetId="a351234c4de94cffb8e6a247fa512806" version="11.0" toolVersion="3.0.0" bbox="-1.050110 -1.345902 -0.244318 1.076123 1.345902 0.244318" previewImage="a351234c4de94cffb8e6a247fa512806_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="book vus_assembly" assemblyId="619dd82b78dd424e9ee7bd868997b72a">
+<Part name="book vu" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.00925031 -0.00118345 5.11173" rotation="AD: 0.9999487569324839 -0.026697055569253492 0.4107905099944204 186.878" image="book vu_viewpoint_0001.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

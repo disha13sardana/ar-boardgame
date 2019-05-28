@@ -1,0 +1,51 @@
+<vuforiaproject version="3">
+  <project id="43878bd26b6d4e7dbcefea83df3206c6" assemblyId="dd929ec569ee449088813bc4ed129ba7">
+    <source file="C:\Users\poorv\Downloads\ModelTargetGenerator-8-1-8\Model_Target_Generator-win32-x64\resources\sampledata\3d artifacts\VR_simple.fbx" date="1556590136255"/>
+    <converted file=".converted\VR_simple.pvz" date="1556592400125"/>
+    <units length="Meters"/>
+  </project>
+  <camera>
+    <position x="2.195102334022522" y="2.843114912509918" z="1.3081516242027282"/>
+    <quaternion x="-0.26973622430875" y="0.3237618099963287" z="0.09685205647999717" w="0.901687495110782"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </camera>
+
+  <detectionpointcamera>
+    <position x="0" y="0" z="0"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <up x="0" y="1" z="0"/>
+    <setup x="0" y="1" z="0"/>
+  </detectionpointcamera>
+
+  <detectionpoints>
+  </detectionpoints>
+  <trackingarea active="false">
+    <position x="0" y="0.5756100118160248" z="-1.3544761395454405"/>
+    <quaternion x="0" y="0" z="0" w="1"/>
+    <scale x="1" y="1" z="1"/>
+    <corners>
+      <position x="0.5" y="1.0756100118160248" z="-0.8544761395454405"/>
+      <position x="0.5" y="1.0756100118160248" z="-1.8544761395454405"/>
+      <position x="-0.5" y="1.0756100118160248" z="-1.8544761395454405"/>
+      <position x="-0.5" y="1.0756100118160248" z="-0.8544761395454405"/>
+      <position x="0.5" y="0.07561001181602478" z="-0.8544761395454405"/>
+      <position x="0.5" y="0.07561001181602478" z="-1.8544761395454405"/>
+      <position x="-0.5" y="0.07561001181602478" z="-1.8544761395454405"/>
+      <position x="-0.5" y="0.07561001181602478" z="-0.8544761395454405"/>
+    </corners>
+  </trackingarea>
+  <dlproject active="true"/>
+  <targetvolumes>
+  </targetvolumes>
+  <camrendervols>
+  </camrendervols>
+  <orbitcontrols>
+    <target x="0" y="0.5756100118160248" z="-1.3544761395454405"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitcontrols>
+  <orbitdetection>
+    <target x="0" y="0" z="-1.4717107386646209"/>
+    <worldUpVector x="0" y="1" z="0"/>
+  </orbitdetection>
+</vuforiaproject>
